@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gERr172KHTaVMduOMSp3tlqd1mX2CvP3XWD/QCcTwqhW0IdwwC2HPnK0nuC8lHHr6U3uBdwkRet1/HAS7b5m+w==",
+  "dgSpecHash": "9uCbQll2Ro+EHT4U01VssuAsFnQD1W79wyZWnwUIEVn16GY5T0qmdQhxNQ+h9KAQJvnyTzFISsm+S2Tjd2cxpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

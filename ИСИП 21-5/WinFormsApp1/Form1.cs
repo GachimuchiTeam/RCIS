@@ -37,5 +37,11 @@ namespace WinFormsApp1
         {
           
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form3 fm3 = new Form3();
+            fm3.Show();
+        }
     }
 }
