@@ -29,11 +29,7 @@ namespace WinFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (comboBox1.Text == 'администратор'&& textBox1.Text=='1234')
-            {
-                Form20 fm20 = new Form20();
-                fm20.Show();
-            }
+            
             
         }
     }

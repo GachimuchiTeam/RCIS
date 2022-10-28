@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\GenGrimson\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\GenGrimson\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\GenGrimson\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\GenGrimson\\RCIS\\ИСИП 21-5\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\GachimuchiTeam\\RCIS\\ИСИП 21-5\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\GenGrimson\\RCIS\\ИСИП 21-5\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

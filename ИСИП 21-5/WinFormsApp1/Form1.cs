@@ -21,6 +21,7 @@ namespace WinFormsApp1
         {
             Form10 fm10 = new Form10();
             fm10.Show();
+            this.Hide();
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
