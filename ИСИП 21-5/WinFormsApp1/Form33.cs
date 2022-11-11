@@ -29,9 +29,15 @@ namespace WinFormsApp1
                 Convert.ToDouble(textBox2.Text);
             c = b/((a/100) * (a/100));
             label7.Text = c.ToString("N");
+
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

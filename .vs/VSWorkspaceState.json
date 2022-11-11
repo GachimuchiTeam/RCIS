@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ИСИП 21-5",
-    "\\ИСИП 21-5\\WinFormsApp1",
-    "\\ИСИП 21-5\\WinFormsApp1\\bin",
-    "\\ИСИП 21-5\\WinFormsApp1\\bin\\Debug",
-    "\\ИСИП 21-5\\WinFormsApp1\\bin\\Release"
+    ""
   ],
-  "SelectedNode": "\\ИСИП 21-5\\WinFormsApp1\\Form1.Designer.cs",
+  "SelectedNode": "\\WinFormsApp1.sln",
   "PreviewInSolutionExplorer": false
 }

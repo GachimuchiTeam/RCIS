@@ -32,5 +32,12 @@ namespace WinFormsApp1
             fm33.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form11 fm11 = new Form11();
+            fm11.Show();
+            this.Hide();
+        }
     }
 }

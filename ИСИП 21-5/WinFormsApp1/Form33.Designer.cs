@@ -99,6 +99,7 @@ namespace WinFormsApp1
             this.pictureBox1.Size = new System.Drawing.Size(167, 220);
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // button1
             // 
@@ -206,7 +207,7 @@ namespace WinFormsApp1
             // 
             // trackBar1
             // 
-            this.trackBar1.Location = new System.Drawing.Point(527, 377);
+            this.trackBar1.Location = new System.Drawing.Point(527, 358);
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(167, 45);
             this.trackBar1.TabIndex = 23;

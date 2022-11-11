@@ -55,3 +55,7 @@ C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\bin\Debug
 C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
 C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form11.resources
+C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form12.resources
+C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form2.resources
+C:\Users\Admin\Source\Repos\GenGrimson\RCIS\ИСИП 21-5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.FormCheckpoints.resources
