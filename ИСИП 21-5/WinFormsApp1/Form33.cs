@@ -41,5 +41,22 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void Form33_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form10 fm10 = new Form10();
+            fm10.Show();
+            this.Hide();
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -25,6 +25,9 @@
     <Compile Update="Form33.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form34.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormCheckpoints.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -81,6 +81,7 @@ namespace WinFormsApp1
             this.button5.TabIndex = 4;
             this.button5.Text = "Назад";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label1
             // 
@@ -211,6 +212,7 @@ namespace WinFormsApp1
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(167, 45);
             this.trackBar1.TabIndex = 23;
+            this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // Form33
             // 
@@ -234,6 +236,7 @@ namespace WinFormsApp1
             this.Controls.Add(this.panel1);
             this.Name = "Form33";
             this.Text = "Form33";
+            this.Load += new System.EventHandler(this.Form33_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
